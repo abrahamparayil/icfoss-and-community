@@ -25,9 +25,6 @@ pages:
   stage: deploy
   script:
     - gitbook build . public # build to public path
-    - cd asciidoc 
-    - gitbook build . misc
-    - mv misc ../public/misc
   artifacts:
     paths:
       - public
