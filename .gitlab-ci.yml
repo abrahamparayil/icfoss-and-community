@@ -19,15 +19,18 @@ test:
     - branches # this job will affect every branch except 'master'
   except:
     - master
-    
+
 # the 'pages' job will deploy and build your site to the 'public' path
 pages:
   stage: deploy
   script:
     - gitbook build . public # build to public path
+    - cd asciidoc 
+    - gitbook build . misc
+    - mv misc ../public/misc
   artifacts:
     paths:
       - public
     expire_in: 1 week
   only:
-    - master # this job will affect only the 'master' branch
+    - master
