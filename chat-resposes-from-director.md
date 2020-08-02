@@ -1,8 +1,5 @@
-**Meeting notes of official community consultation held previously:**  <https://pad.disroot.org/p/ICFOSS_Community_Meetup_demands>
-
-**Telegram conversation with ICFOSS's new director:** [**https://t.me/ic_foss/2984**](https://t.me/ic_foss/2984)
-
-Also available on: <https://matrix.to/#/#icfoss:matrix.org>  - direct link?
+**Telegram conversation with ICFOSS's new director:** [**https://t.me/ic_foss/2984**](https://t.me/ic_foss/2984)\
+**Also available through the** [**Matrix Room**](https://matrix.to/#/#icfoss:matrix.org)
 
 Point by point replies copied from chat follows. Bold is question, non-bold is answer by director.
 
@@ -109,7 +106,7 @@ Points raised as follow-up in the conversation above
 
 "Regarding funding let us be democratic, it is a time where RTI is being weponised, so we need to frame a guideline for funding, fixing criteria, who all can volunteer in this task"
 
-**naveenpf: community grants  can be split as **
+**naveenpf: community grants  can be split as**
 
 **1\. Project grant**
 
@@ -131,13 +128,13 @@ Points raised as follow-up in the conversation above
 
 "This is what I mean a structured document published in the website and an online application system"
 
-**Hrishi: Adding to this, **
+**Hrishi: Adding to this,**
 
-**Travel support can be of two types. **
+**Travel support can be of two types.**
 
-**1\. Grants **
+**1\. Grants**
 
-**2\. interestless loans **
+**2\. interestless loans**
 
 **The second one should be easy to work out. Few years back I was in need of a travel support when I had an opportunity to present one of my projects in a prestigious event abroad. The organizers were reimbursing the travel expenses but I had to advance it to make the arrangements. I tried to get support from many such govt programs (including startup mission) in vain. If such a travel support can be arranged, it is not an expense per say. As the candidate will repay it when she gets the reimbursement.**
 
@@ -147,15 +144,15 @@ Points raised as follow-up in the conversation above
 
 **Hrishi: Are you saying the fonts should be release ready by October ?**
 
-**Anivar: Few points i want to list are fixing institutional behaviour to foss communities **
+**Anivar: Few points i want to list are fixing institutional behaviour to foss communities**
 
 **1. ICFOSS need to be a facilitator for both foss projects and foss requirements of government .  It is should not a big fat research only org/  funding platform/ ownership holder foss communi produced work. **
 
-**Maintaining  a fair balance is the key .**
+**Maintaining  a fair balance is the key.**
 
 **Saying this because i invested efforts in past at icfoss and later seen many if those values washing away in last 4 years**
 
-**Anivar: 2. Major gap i see in this process is empowering room for free software choices and suggestions in government. I know it is not easy, but it is a continuous battle. This need policy briefs within government,  documenting best practices and more story telling based on foss projects and their adoptions .**
+**Anivar: 2. Major gap i see in this process is empowering room for free software choices and suggestions in government. I know it is not easy, but it is a continuous battle. This need policy briefs within government,  documenting best practices and more story telling based on foss projects and their adoptions.**
 
 **Anivar: 3. . Initiate and build institutional support for volunary initiatives and help them to be sustainable  communities . Eg. Building a Kerala rescue based preparedness stack  (i heard some good initiatives happening)**
 
@@ -177,7 +174,7 @@ Points raised as follow-up in the conversation above
 
 **Anivar: 7. Decouple startup /product / event/ certificate focused campus club structure to contribution based model. contribution  shouldnt be code alone.**
 
-**8. Use Open organization structure to maximum extend , use issue trackers and build transparancy around programs, planning and participation. Invest efforts in addressing issues . This will avoid a lot of conflicts even though it may be a bit difficult in start. **
+**8. Use Open organization structure to maximum extend , use issue trackers and build transparancy around programs, planning and participation. Invest efforts in addressing issues . This will avoid a lot of conflicts even though it may be a bit difficult in start.**
 
 **Changing an org culture is hard. But i am sure sabarish's willingness is a very positive step**
 
@@ -189,32 +186,26 @@ Points raised as follow-up in the conversation above
 
 Action items
 
-1 Volunteers for framing a guideline and criteria for funding
+1. Volunteers for framing a guideline and criteria for funding
 
-2 Proposals from member groups for developing 2 Open fonts not fontforged variants
+2. Proposals from member groups for developing 2 Open fonts not fontforged variants
 
-3 Contribution of case studies for impact of Libre software in Kerala
+3. Contribution of case studies for impact of Libre software in Kerala
 
-4 List of Communities and their Nomenclature
+4. List of Communities and their Nomenclature
 
-5 List of Captains representatives for.inclusion in the board for project/event selection and fellow selection.
+5. List of Captains representatives for.inclusion in the board for project/event selection and fellow selection.
 
-6 Wholehearted support"
+6. Wholehearted support"
 
 "So when can I expect the delivery of the 5 items Let's fix one week. Pls post the spreadsheet here in this group, and kailas and Akshay from.ICFOSS may compile the same."
 
 List of Communities and their Nomanclature
 
-FSCI
-
-SMC
-
-Wikimedia Kerala User group - Rec by WMF
-
-OSM Kerala community
-
-Raksha - Kerala Rescue team
-
-Space
-
-DAKF
+- FSCI
+- SMC
+- Wikimedia Kerala User group - Rec by WMF
+- OSM Kerala community
+- Raksha - Kerala Rescue team
+- Space
+- DAKF
