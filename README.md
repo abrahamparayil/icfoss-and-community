@@ -13,7 +13,7 @@ The Free Software Community of Kerala is a group of communities and societies th
 Here's an incomplete list of Free Softwrae communities in Kerala:
 
 | Sl# | Name                                      | Website                                    | Matrix Room ID           |
-|-----+-------------------------------------------+--------------------------------------------+--------------------------|
+|-----|-------------------------------------------|--------------------------------------------|--------------------------|
 |   1 | FSUG Thissur                              | http://thrissur.fsug.in/                   | #fsug-tcr:matrix.org     |
 |   2 | ILUG Kochin                               |                                            | #ilugcochin:matrix.org   |
 |   3 | FSUG Thiruvananthapuram                   | http://tvm.fsug.in/                        | #fsug-tvm:matrix.org     |
