@@ -71,7 +71,7 @@ Sooraj, Kannan, Ranjith, Naveen and Athul mentioned about case studies and prese
 4.  Presentation at OSM online event SOTM by Asish Abraham Joseph showing impact of mapping in public sector of Kerala.
 
 -   [FOSS in Education: IT@School Project, Kerala, India)](https://pdfs.semanticscholar.org/5c66/f4703de485f6d9bc877090c5f37909da4fba.pdf)
-    - Authors: [Girija Krishnaswamy](mailto:irija.krishnaswamy@acu.edu.au) and [Dora Marinova](d.marinova@curtin.edu.au)
+    - Authors: [Girija Krishnaswamy](mailto:irija.krishnaswamy@acu.edu.au) and [Dora Marinova](mailto:d.marinova@curtin.edu.au)
 -   [The story of IT@School's migration to free software](http://www.space-kerala.org/files/Story%20of%20SPACE%20and%20IT%40School.pdf)
     - Author: [SPACE Kerala](http://www.space-kerala.org/about-space) 
 -   [Challenges of Implementing Freeand Open Source Software (FOSS): Evidence from the Indian Educational Setting](https://files.eric.ed.gov/fulltext/EJ1155790.pdf)
