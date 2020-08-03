@@ -10,7 +10,7 @@ For more info:
 
 **What is exactly the Free Software Community of Kerala?**
 
-The Free Software Community of Kerala is a group of communities and societies that use, evangelise and contribute to Free Software functioning from Kerala.
+When the phrase 'Free Software Community of Kerala' is used in this website, it is refering to a group of communities and societies that use, evangelise and contribute to Free Software functioning from Kerala.
 Here's an incomplete list of Free Softwrae communities in Kerala:
 
 | Sl# | Name                                      | Website                                    | Matrix Room ID           |
