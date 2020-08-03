@@ -31,3 +31,8 @@ Here's an incomplete list of Free Softwrae communities in Kerala:
 |  15 | Malayalam Wikisource                      | https://ml.wikisource.org                  |                          |
 |  16 | FOSSers VAST                              | http://fossers.vidyaacademy.ac.in/         |                          |
 |  17 | Student Developer Society                 | https://studevsoc.com                      | #studevsoc:tchncs.de     |
+
+If you wish to add your community's name here contact me:
+- Mail: [avronr@tuta.io](mailto:avronr@tuta.io)
+- Matrix: [@abraham_raji:matrix.org](@abraham_raji:matrix.org)
+- Telegram: [@avronr](https://t.me/avronr)
