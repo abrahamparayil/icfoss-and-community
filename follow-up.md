@@ -68,8 +68,10 @@ August 27 2020:
 >well with the Finance Inspection Team, best wishes for the same.
 >Looking forward to turning new leaves,
 >
->Abraham Raji
->-- 
+> Abraham Raji
+>
+> --
+>
 >Mea navis aëricumbens anguillis abundat.
 
 (I must have been having a really good day because I'm not usually this nice. 
@@ -90,7 +92,10 @@ November 1 2020:
 >for the letter from you. This is an email to inquire about the status of the 
 >official reply, why is it getting delayed and when we can expect it.
 >
->Sincerely,
->Abraham Raji
->-- 
+> Sincerely,
+>
+> Abraham Raji
+>
+> --
+>
 >Mea navis aëricumbens anguillis abundat.
