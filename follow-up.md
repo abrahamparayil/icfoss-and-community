@@ -1,4 +1,4 @@
-# First follow-up after Community's response
+# Waiting for a response from ICFOSS Director and Following up on it
 
 The community patiently awaited the then Director Sabarish K to address the 
 community's response officially. A few weeks later the [Free Software Community 
