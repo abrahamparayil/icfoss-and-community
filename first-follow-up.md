@@ -56,23 +56,25 @@ To which he replied:
 >Regards
 >Sabarish
 
-For better or for worse I decided to give him a chance and didn't make this email public. I do regret that now. Anyway I ended up replying:
+For better or for worse I decided to give him a chance and didn't make this 
+email public. I do regret that now. Anyway I ended up replying:
 
 August 27 2020:
 
-    Respected Sir,
+>Respected Sir,
+>Will keep the mail to myself. I'm glad to know that you're trying to make a 
+>difference. I and I'm pretty sure the community too, will support you in any 
+>way we can for the social cause that is Free Software. Hope everything goes 
+>well with the Finance Inspection Team, best wishes for the same.
+>Looking forward to turning new leaves,
+>
+>Abraham Raji
+>-- 
+>Mea navis aëricumbens anguillis abundat.
 
-    Will keep the mail to myself. I'm glad to know that you're trying to make a difference. I and I'm pretty sure the community too, will support you in any way we can for the social cause that is Free Software. Hope everything goes well with the Finance Inspection Team, best wishes for the same.
-
-    Looking forward to turning new leaves,
-
-    Abraham Raji
-
-    -- 
-
-    Mea navis aëricumbens anguillis abundat.
-
-(I must have been having a really good day because I'm not usually this nice. Maybe I thought something good would happen this time and a little positive feedback would be good.)
+(I must have been having a really good day because I'm not usually this nice. 
+Maybe I thought something good would happen this time and a little positive 
+feedback would be good.)
 
 But I was wrong. No reply.
 
@@ -80,14 +82,15 @@ So I sent another mail:
 
 November 1 2020:
 
-    Hey Sir,
-
-    The free software communities in Kerala had sent you a letter detailing their expectations from ICFOSS, how together both parties can build a better FOSS ecosystem in Kerala, upon your request. We have yet to receive an official reply for the letter from you. This is an email to inquire about the status of the official reply, why is it getting delayed and when we can expect it.
-
-    Sincerely,
-
-    Abraham Raji
-
-    -- 
-
-    Mea navis aëricumbens anguillis abundat.
+>Hey Sir,
+>
+>The free software communities in Kerala had sent you a letter detailing their 
+>expectations from ICFOSS, how together both parties can build a better FOSS 
+>ecosystem in Kerala, upon your request. We have yet to receive an official reply
+>for the letter from you. This is an email to inquire about the status of the 
+>official reply, why is it getting delayed and when we can expect it.
+>
+>Sincerely,
+>Abraham Raji
+>- 
+>Mea navis aëricumbens anguillis abundat.
