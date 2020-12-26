@@ -5,3 +5,4 @@
 * [Response and Request from ICFOSS Director via Chat](chat-resposes-from-director.md)
 * [Community's Response to ICFOSS Director's request](communitys-response.md)
 * [Community Follow-up](follow-up.md)
+* [Dr. Sabarish K relieved from ICFOSS](director-relieved.md)
